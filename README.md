@@ -17,4 +17,5 @@ Current Development:
    1. Contrast for the page need to be checked.
 7. Control Surface Switches / Controls. Done. Locally connected using same version of library.
 8. Integration Testing with the current PU.
-9. Checkiung all connectors for all OHP Leds, Switches, Pots and controls.  WIP
+9. Checkiung all connectors for all OHP Leds, Switches, Pots and controls.  WIP.
+10. 
