@@ -18,4 +18,6 @@ Current Development:
 7. Control Surface Switches / Controls. Done. Locally connected using same version of library.
 8. Integration Testing with the current PU.
 9. Checkiung all connectors for all OHP Leds, Switches, Pots and controls.  WIP.
-10. 
+
+
+Completed simx-kesa for handling all Input switches, based on any ke ints.
