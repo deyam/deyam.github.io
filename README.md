@@ -21,3 +21,4 @@ Current Development:
 
 
 Completed simx-kesa for handling all Input switches, based on any ke ints.
+Should be ready for testing current confifg, for TQ.
